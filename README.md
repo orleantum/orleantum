@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=orleantum&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=orleantum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ На подумать
+### ✍️ Think about it 🤔
 > Я люблю когда титьками девки трясут<br>
 > Я люблю когда денежки в руки плывут<br>
 > Я люблю когда детей дома нет<br>
