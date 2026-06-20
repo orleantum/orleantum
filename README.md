@@ -12,5 +12,13 @@
 ![](https://streak-stats.demolab.com/?user=orleantum&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=orleantum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ На подумать
+> Я люблю когда титьками девки трясут
+> Я люблю когда денежки в руки плывут
+> Я люблю когда детей дома нет
+> Я люблю когда свободен туалет
+> Я люблю когда жена уходит навсегда
+> Я люблю когда в доме вкусная еда
+> Я люблю пиво шампанское икру
+> И я ненавижу эту игру!
+> — *Гешка Букинг*
