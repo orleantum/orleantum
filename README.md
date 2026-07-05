@@ -1,8 +1,4 @@
-# 💫 About Me:
-🔭 Прекрасный!<br>⚡ Изумительный!<br>🤝 Добрый!<br>😄 Очаровательный<br>💬 Радостный!
-
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/orleantum) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@orleantum) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/orleantum) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@orleantum) 
 
 # 💻 Tech Stack:
@@ -12,13 +8,3 @@
 ![](https://streak-stats.demolab.com/?user=orleantum&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=orleantum&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Think about it 🤔
-> Я ЛЮБЛЮ КОГДА ТИТЬКАМИ ДЕВКИ ТРЯСУТ.<br>
-> Я ЛЮБЛЮ КОГДА ДЕНЕЖКИ В РУКИ ПЛЫВУТ.<br>
-> Я ЛЮБЛЮ КОГДА ДЕТЕЙ ДОМА НЕТ.<br>
-> Я ЛЮБЛЮ КОГДА СВОБОДЕН ТУАЛЕТ.<br>
-> Я ЛЮБЛЮ КОГДА ЖЕНА УХОДИТ НАВСЕГДА.<br>
-> Я ЛЮБЛЮ КОГДА В ДОМЕ ВКУСНАЯ ЕДА.<br>
-> Я ЛЮБЛЮ ПИВО, ШАМПАНСКОЕ, ИКРУ<br>
-> И Я НЕНАВИЖУ ЭТУ ИГРУ!
-> <p align="right">— <i>*Гешка Букинг*</i></p>
